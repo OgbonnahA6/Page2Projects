@@ -16,16 +16,16 @@ Tienta Medicals often faces challenges in optimizing revenue streams while manag
 - **Gender-Based Insights:** Revenue trends by gender highlight that male patients contribute significantly more on average, particularly within the 19-35 age group, with a revenue per patient metric over $5,000. This gender discrepancy in revenue could point to different treatment needs or a different distribution of high-cost procedures across genders.
 
 Dashboard
-### "C:\Users\austi\OneDrive\Web Images\TientaMedDashboard1.pdf"
-
+### Revenue Dashboard 
+### https://github.com/OgbonnahA6/Tienta-Medicals/blob/main/TientaMedDashboard1.pdf
 #### 4. Common Procedures and Associated Costs
 - Top Procedures: Procedures such as heart bypass surgery and appendectomy are among the most frequently performed and revenue-generating procedures. Given the high frequency, these procedures might also account for a considerable portion of the revenue trends observed. The high demand for these procedures underscores the importance of resources in cardiology and surgical departments.
 - Revenue by Procedure Category: Procedures categorized under Surgery and Cardiology lead in revenue generation, suggesting that high-cost procedures within these categories might account for the observed trends. This finding can inform investment in specialized training, equipment, and marketing for these services.
 #### 5. Geographic Insights
 - State-Level Concentration: Transactions and associated revenues are predominantly concentrated in states like California and New York. This geographic distribution could indicate the hospital’s operational footprint, patient reach, and potential market focus. Understanding this concentration can guide potential expansion or outreach strategies to other high-demand states or underserved regions.
 
-Dashboard
-### "C:\Users\austi\OneDrive\Web Images\TientaMedDashboard2.pdf"
+### Performance Dashboard
+### 
 ## Recommendations
 - Strategic Investment in High-Demand Specialties: Given the revenue concentration in specialties like Neurology and Cardiology, consider channeling more resources and specialized training toward these areas, particularly in locations like Los Angeles and New York, where demand is high.
 - Marketing and Outreach to Key Age Groups: With significant revenue contributions from patients aged 19-50, targeted marketing and specialized services for these age groups could further drive revenue. Understanding patient needs within these demographics could help tailor healthcare packages or preventative services.
