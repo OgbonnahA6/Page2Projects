@@ -1,4 +1,6 @@
 # Tienta Medicals LLC
+![image](https://github.com/user-attachments/assets/73db2eeb-06f7-4e6d-8c02-af1df39e97f8)
+
  ### Introduction
 Tienta Medicals often faces challenges in optimizing revenue streams while managing operational costs and meeting diverse patient needs. Identifying high-demand procedures, profitable specialties, and patient demographic trends can be complex without a centralized, data-driven approach. By analyzing the data, Tienta Medicals gained actionable insights into its operations. This analysis identifies the most profitable specialties, determines patient demographics contributing to revenue, and optimizes resource allocation based on geographic and demographic trends. Such insights empower Tienta Medical management to make data-driven decisions, enhancing profitability, improving patient care, and supporting strategic growth.
 ## Key Insights
@@ -17,7 +19,7 @@ Tienta Medicals often faces challenges in optimizing revenue streams while manag
 
 Dashboard
 ### Revenue Dashboard 
-### https://github.com/OgbonnahA6/Tienta-Medicals/blob/main/TientaMedDashboard1.pdf
+### "C:\Users\austi\Downloads\TientaMedDashboard.png"
 #### 4. Common Procedures and Associated Costs
 - Top Procedures: Procedures such as heart bypass surgery and appendectomy are among the most frequently performed and revenue-generating procedures. Given the high frequency, these procedures might also account for a considerable portion of the revenue trends observed. The high demand for these procedures underscores the importance of resources in cardiology and surgical departments.
 - Revenue by Procedure Category: Procedures categorized under Surgery and Cardiology lead in revenue generation, suggesting that high-cost procedures within these categories might account for the observed trends. This finding can inform investment in specialized training, equipment, and marketing for these services.
