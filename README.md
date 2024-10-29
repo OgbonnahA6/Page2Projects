@@ -19,7 +19,7 @@ Tienta Medicals often faces challenges in optimizing revenue streams while manag
 
 Dashboard
 ### Revenue Dashboard 
-https://1drv.ms/i/c/bade86cf02446d3c/EX0XjEeCDwNGnMHNPF9RKpgB8AcmGGW7LSEo51TPK3CFmg?e=BtpCuG
+
 #### 4. Common Procedures and Associated Costs
 - Top Procedures: Procedures such as heart bypass surgery and appendectomy are among the most frequently performed and revenue-generating procedures. Given the high frequency, these procedures might also account for a considerable portion of the revenue trends observed. The high demand for these procedures underscores the importance of resources in cardiology and surgical departments.
 - Revenue by Procedure Category: Procedures categorized under Surgery and Cardiology lead in revenue generation, suggesting that high-cost procedures within these categories might account for the observed trends. This finding can inform investment in specialized training, equipment, and marketing for these services.
