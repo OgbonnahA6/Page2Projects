@@ -1,6 +1,13 @@
 # Tienta Medicals LLC
 ![image](https://github.com/user-attachments/assets/73db2eeb-06f7-4e6d-8c02-af1df39e97f8)
 
+## Table of Contents
+- **Introduction**
+- **Key Insights**
+- **Recommendations**
+- **Conclusion**
+
+
  ### Introduction
 Tienta Medicals often faces challenges in optimizing revenue streams while managing operational costs and meeting diverse patient needs. Identifying high-demand procedures, profitable specialties, and patient demographic trends can be complex without a centralized, data-driven approach. By analyzing the data, Tienta Medicals gained actionable insights into its operations. This analysis identifies the most profitable specialties, determines patient demographics contributing to revenue, and optimizes resource allocation based on geographic and demographic trends. Such insights empower Tienta Medical management to make data-driven decisions, enhancing profitability, improving patient care, and supporting strategic growth.
 ## Key Insights
