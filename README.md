@@ -1,5 +1,5 @@
 # Tienta Medicals LLC
-![image](https://github.com/user-attachments/assets/73db2eeb-06f7-4e6d-8c02-af1df39e97f8)
+
 ![image](https://github.com/user-attachments/assets/77c84947-7e77-43a2-baf8-55a9a95bafce)
 
 ## Table of Contents
