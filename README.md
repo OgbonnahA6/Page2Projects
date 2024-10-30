@@ -31,7 +31,8 @@ Tienta Medicals often faces challenges in optimizing revenue streams while manag
 
 Dashboard
 ### Revenue Dashboard 
-https://1drv.ms/i/c/bade86cf02446d3c/EQMj9xezlWtJkB-EhLayFdMBgD9zcxaijOomKqhb6rMgIg?e=nYckfL
+![TientaDashboard1](https://github.com/user-attachments/assets/0ddd7123-df40-4622-af8e-8af6060385e6)
+
 #### 4. Common Procedures and Associated Costs
 - Top Procedures: Heart bypass surgery and appendectomy are among the most frequently performed and revenue-generating procedures. Given the high frequency, these procedures might also account for a considerable portion of the revenue trends observed. The high demand for these procedures underscores the importance of resources in cardiology and surgical departments.
 - Revenue by Procedure Category: Procedures categorized under Surgery and Cardiology lead in revenue generation, suggesting that high-cost procedures within these categories might account for the observed trends. This finding can inform investment in specialized training, equipment, and marketing for these services.
@@ -40,6 +41,7 @@ https://1drv.ms/i/c/bade86cf02446d3c/EQMj9xezlWtJkB-EhLayFdMBgD9zcxaijOomKqhb6rM
 - State-Level Concentration: Transactions and associated revenues are predominantly concentrated in states like California and New York. This geographic distribution could indicate the hospital’s operational footprint, patient reach, and potential market focus. Understanding this concentration can guide potential expansion or outreach strategies to other high-demand states or underserved regions.
 
 - **Performance Dashboard**
+![TientaMedDashboard2](https://github.com/user-attachments/assets/fde7b789-76c2-4013-9c53-87f326b88b35)
 
 ## Recommendations
 - Strategic Investment in High-Demand Specialties: Given the revenue concentration in specialties like Neurology and Cardiology, consider channeling more resources and specialized training toward these areas, particularly in locations like Los Angeles and New York, where demand is high.
